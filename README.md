@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sagar SG</h1>
 
-<!--
-**sagarcreation18/sagarcreation18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Final Year CSE Student | Full Stack Developer | Tech Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Final Year Computer Science Engineering Student
+- 💻 Full Stack Developer
+- 🌱 Currently Learning Advanced Web Development & AI
+- 🚀 Passionate About Building Real-World Projects
+- 🎥 Video Editor & Content Creator
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • VS Code
+
+---
+
+## 📂 Featured Projects
+
+### Attendance Management System
+A web-based attendance tracking platform.
+
+### Personal Portfolio Website
+Professional portfolio showcasing skills and projects.
+
+### AI Voice Chatbot
+Voice-enabled chatbot using Gemini API.
+
+---
+
+## 📈 GitHub Stats
+
+(Add GitHub stats card here)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: sgsagar572@gmail.com
+
+📷 Instagram:
+https://instagram.com/sagar.sg18
+
+🎥 YouTube:
+https://www.youtube.com/@sagarsoulverse
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sagar-sg-5616532a1
