@@ -3,7 +3,7 @@
 <p align="center"><strong>CSE Student at RYMEC Ballari · Developer in Progress · Creative at Heart</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=65&amp;lines=Aspiring+Full-Stack+Developer%3BBuilding+EcoSmart+Ballari%3BLearning+Java+%2B+Data+Structures%3BVideo+Editor+%2B+Creative+Storyteller" alt="Aspiring full-stack developer building EcoSmart Ballari, learning Java and DSA, and creating videos" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=65&amp;lines=Aspiring+Full-Stack+Developer%3BBuilding+Useful+Web+Experiences%3BLearning+Java+%2B+Data+Structures%3BVideo+Editor+%2B+Creative+Storyteller" alt="Aspiring full-stack developer building useful web experiences, learning Java and DSA, and creating videos" width="100%" />
 </p>
 
 <p align="center">
@@ -20,32 +20,11 @@ I build web applications around everyday problems and bring a creative eye to th
 
 My goal is to grow into a full-stack developer who can take an idea from interface design to APIs, databases, and deployment.
 
-## 🚀 Featured Projects
-
-### [EcoSmart Ballari — Location-Based Garbage Management](https://github.com/sagarcreation18/Location-Based-Garbage-Management-System)
-
-My final-year project focuses on waste collection coordination in Ballari, with dedicated workspaces for citizens, drivers, and administrators.
-
-- Citizen portal for nearby bins, collection requests, and complaints.
-- Driver dashboard for assigned routes, collection updates, and history.
-- Admin dashboard for managing bins, drivers, routes, and reports.
-- Shared REST API with JWT authentication and role-based access.
-
-**Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL, Google Maps
-
-### [Taskly — Student Task Manager](https://github.com/sagarcreation18/Tasky-)
-
-A mobile-first progressive web app for organizing assignments, exams, labs, projects, and personal tasks. Includes priorities, deadlines, search, calendar views, progress tracking, and offline support.
-
-**Stack:** HTML, CSS, JavaScript, localStorage, Service Worker
-
-### [RYMEC Student Attendance Management System](https://github.com/sagarcreation18/ATTETENDENCE-MANAGEMENT-SYSTEM)
-
-A frontend demonstration with separate Admin, Teacher, and Student interfaces for attendance marking, student records, analytics, and reports. The current version stores data locally in the browser.
-
-**Stack:** HTML, CSS, JavaScript, Chart.js, localStorage
-
 ## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="assets/skills.gif" alt="Animated development and creative skill logos: HTML, CSS, JavaScript, Bootstrap, Java, Node.js, Express, MySQL, REST APIs, JWT, Git, GitHub, VS Code, Postman, Workbench, After Effects, Premiere Pro, Illustrator, Canva, and CapCut" width="100%" />
+</p>
 
 | Area | Technologies |
 | --- | --- |
@@ -81,3 +60,5 @@ I'm interested in opportunities to learn, collaborate, and contribute to practic
 
 
 <!-- The animated typing banner is served by readme-typing-svg.demolab.com. -->
+
+<!-- Skill icons: Devicon (https://github.com/devicons/devicon), MIT license. REST APIs, JWT, and CapCut use text marks. -->
