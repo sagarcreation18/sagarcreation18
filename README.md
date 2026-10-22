@@ -1,65 +1,69 @@
-<h1 align="center">Hi 👋, I'm Sagar SG</h1>
+# Hi, I'm Sagar SG
 
-<h3 align="center">
-Final Year CSE Student | Full Stack Developer | Tech Enthusiast
-</h3>
+**Final-year CSE student at RYMEC Ballari · Aspiring Full-Stack Developer · Video Editor**
 
----
+I build web applications around everyday problems and bring a creative eye to the user experience. I'm pursuing Computer Science and Engineering at **Rao Bahadur Y. Mahabaleswarappa Engineering College, Ballari**, while strengthening my Java, data structures, and algorithms skills.
 
-## 🚀 About Me
+My goal is to grow into a full-stack developer who can take an idea from interface design to APIs, databases, and deployment.
 
-- 🎓 Final Year Computer Science Engineering Student
-- 💻 Full Stack Developer
-- 🌱 Currently Learning Advanced Web Development & AI
-- 🚀 Passionate About Building Real-World Projects
-- 🎥 Video Editor & Content Creator
+[LinkedIn](https://www.linkedin.com/in/sagar-sg-5616532a1) · [Email](mailto:sgsagar572@gmail.com) · [GitHub](https://github.com/sagarcreation18)
 
----
+## Featured Projects
 
-## 🛠️ Tech Stack
+### [EcoSmart Ballari — Location-Based Garbage Management](https://github.com/sagarcreation18/Location-Based-Garbage-Management-System)
 
-### Frontend
-HTML • CSS • JavaScript • React
+My final-year project focuses on waste collection coordination in Ballari, with dedicated workspaces for citizens, drivers, and administrators.
 
-### Backend
-Node.js • Express.js
+- Citizen portal for nearby bins, collection requests, and complaints.
+- Driver dashboard for assigned routes, collection updates, and history.
+- Admin dashboard for managing bins, drivers, routes, and reports.
+- Shared REST API with JWT authentication and role-based access.
 
-### Database
-MongoDB • MySQL
+**Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL, Google Maps
 
-### Tools
-Git • GitHub • VS Code
+### [Taskly — Student Task Manager](https://github.com/sagarcreation18/Tasky-)
 
----
+A mobile-first progressive web app for organizing assignments, exams, labs, projects, and personal tasks. Includes priorities, deadlines, search, calendar views, progress tracking, and offline support.
 
-## 📂 Featured Projects
+**Stack:** HTML, CSS, JavaScript, localStorage, Service Worker
 
-### Attendance Management System
-A web-based attendance tracking platform.
+### [RYMEC Student Attendance Management System](https://github.com/sagarcreation18/ATTETENDENCE-MANAGEMENT-SYSTEM)
 
-### Personal Portfolio Website
-Professional portfolio showcasing skills and projects.
+A frontend demonstration with separate Admin, Teacher, and Student interfaces for attendance marking, student records, analytics, and reports. The current version stores data locally in the browser.
 
-### AI Voice Chatbot
-Voice-enabled chatbot using Gemini API.
+**Stack:** HTML, CSS, JavaScript, Chart.js, localStorage
 
----
+## Skills & Tools
 
-## 📈 GitHub Stats
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Backend & Data | Node.js, Express, MySQL, REST APIs, JWT |
+| Development Tools | Git, GitHub, VS Code, Postman, MySQL Workbench |
+| Creative Tools | After Effects, Premiere Pro, CapCut, Illustrator, Canva |
 
-(Add GitHub stats card here)
+## Currently Learning
 
----
+- **Java & DSA:** strengthening programming fundamentals, problem-solving, and interview preparation.
+- **Full-stack development:** improving API design, authentication, database design, and deployment workflows.
+- **Next areas to explore:** AI integration, real-time features, cloud platforms, and system design.
 
-## 📫 Connect With Me
+## Creative Work & Achievements
 
-📧 Email: sgsagar572@gmail.com
+Alongside development, I shoot and edit videos, design event visuals, and create content that tells a story.
 
-📷 Instagram:
-https://instagram.com/sagar.sg18
+- **Three first-prize wins** in short-film competitions at VTU Kalaburagi.
+- **Diploma hackathon winner.**
+- Managed the **Rymec Hub** Instagram page and contributed filming, video edits, and promotional designs for **VIDHARA 2K26–27**, RYMEC's CSE fest.
 
-🎥 YouTube:
-https://www.youtube.com/@sagarsoulverse
+These experiences have strengthened my teamwork, visual communication, and ability to deliver under deadlines.
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sagar-sg-5616532a1
+## Let's Connect
+
+I'm interested in opportunities to learn, collaborate, and contribute to practical web projects.
+
+- **Email:** [sgsagar572@gmail.com](mailto:sgsagar572@gmail.com)
+- **LinkedIn:** [Sagar SG](https://www.linkedin.com/in/sagar-sg-5616532a1)
+- **GitHub:** [sagarcreation18](https://github.com/sagarcreation18)
+- **YouTube:** [@sagarsoulverse](https://www.youtube.com/@sagarsoulverse)
+
